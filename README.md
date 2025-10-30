@@ -28,7 +28,9 @@ This script installs and configures essential tools, security packages, and basi
 Clone the repository and make the script executable:
 
 ```bash
-git clone https://github.com/<your-username>/linux-auto-installer.git
+git clone https://github.com/Paptain19/linux-auto-installer.git
 cd linux-auto-installer
 chmod +x install.sh
 sudo ./install.sh
+```
+
