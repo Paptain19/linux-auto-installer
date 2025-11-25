@@ -1,8 +1,0 @@
-services :
-  it-tools:
-    image: 'ghcr.io/corentinth/it-tools:latest'
-    ports:
-        - '7474:80'
-    restart: unless-stopped
-    container_name: it-tools
-    privileged: false
